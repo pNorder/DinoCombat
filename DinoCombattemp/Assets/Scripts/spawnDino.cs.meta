@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53d9219dd3848134ba871cbd2309d605
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dino1: {fileID: 249018423256351058, guid: 99842993ce5064449a5bb10ab39cd044, type: 3}
+  - dino2: {fileID: 7632335881634945491, guid: 3d27dadf0750c7340810318ee95a3fde, type: 3}
+  - egg: {fileID: 7706497991746363492, guid: 9ca5a410fcde245409d5df84a429cabb, type: 3}
+  - horse: {fileID: 7973436383487131998, guid: 17a6f5f21caf7d648a9910e346eb4e28, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
