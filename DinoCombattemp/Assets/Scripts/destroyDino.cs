@@ -19,7 +19,7 @@ public class destroyDino : MonoBehaviour
     void Update()
     {
       
-        if(dinoHealth <= 0 && deadDinos < 3)
+        if(dinoHealth <= 0 && deadDinos < 20)
         {
             dead = true;
             Destroy(objDes);

@@ -37,7 +37,7 @@ public class spawnDino2 : MonoBehaviour
             //  destroyDino.dead = false;
 
             // StartCoroutine(eggHatch());
-            if (dinoKills < 5)
+            if (dinoKills < 15)
             {
                 GameObject g = (GameObject)Instantiate(egg, (Vector2)transform.position, Quaternion.identity);
                 Destroy(g, 1f);
